@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestJsonWrite</string>
+    <string name="accessibility_desc" >Sample Json Reader</string>
+</resources>
